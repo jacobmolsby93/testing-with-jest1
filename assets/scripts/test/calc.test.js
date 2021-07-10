@@ -1,5 +1,4 @@
-const { TestWatcher } = require("jest");
-const addition = require("../calc")
+const addition = require("../calc");
 
 
 
